@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "regex", "regex\regex.csproj", "{DFC55003-478C-43E3-B97D-EA984C801017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "regextests", "regextests\regextests.csproj", "{62994639-F608-446C-B100-55BED12760B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC55003-478C-43E3-B97D-EA984C801017}.Debug|x86.ActiveCfg = Debug|x86
+		{DFC55003-478C-43E3-B97D-EA984C801017}.Debug|x86.Build.0 = Debug|x86
+		{DFC55003-478C-43E3-B97D-EA984C801017}.Release|x86.ActiveCfg = Release|x86
+		{DFC55003-478C-43E3-B97D-EA984C801017}.Release|x86.Build.0 = Release|x86
+		{62994639-F608-446C-B100-55BED12760B9}.Debug|x86.ActiveCfg = Debug|x86
+		{62994639-F608-446C-B100-55BED12760B9}.Debug|x86.Build.0 = Debug|x86
+		{62994639-F608-446C-B100-55BED12760B9}.Release|x86.ActiveCfg = Release|x86
+		{62994639-F608-446C-B100-55BED12760B9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
