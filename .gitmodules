@@ -1,3 +1,4 @@
 [submodule "simple-queue-service"]
 	path = simple-queue-service
 	url = git@github.com:fredmerlo/simple-queue-service.git
+	branch = feature
